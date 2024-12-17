@@ -153,9 +153,9 @@ Use the database for teaching database design, SQL querying, and data analysis.
 
 ## Getting Started
 Clone the Repository:
-Bash
-
-[git clone https://github.com/bbrumm/databasestar/tree/main/sample_databases/sample_db_movies/postgres]
+1. [https://github.com/Coderbiswajit24/movie-recommendation-system-data]
+OR
+3. [git clone https://github.com/bbrumm/databasestar/tree/main/sample_databases/sample_db_movies/postgres]
 Set Up PostgreSQL Database:
 Create a new PostgreSQL database.
 Import the SQL script provided in the repository to create the schema and tables.
