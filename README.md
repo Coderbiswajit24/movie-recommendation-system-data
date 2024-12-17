@@ -1,4 +1,6 @@
-Project Name :-  movie-recommendation-system-data
+**Project Name :-  movie-recommendation-system-data**
+
+![image alt](https://github.com/Coderbiswajit24/movie-recommendation-system-data/blob/4df27e96f04aec98ccc0055332175d4fdb906d4e/Movie%20Flim%20Logo.png)
 ## This PostgreSQL database is designed to store and manage information about movies, including:-  
 # Movie Table
 Overview:
