@@ -183,5 +183,4 @@ Providing Feedback: Share your thoughts and suggestions on the project's design 
 By collaborating and contributing to this project, you can help improve the database and its usefulness to the community.
 
 **License:-**
-
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
