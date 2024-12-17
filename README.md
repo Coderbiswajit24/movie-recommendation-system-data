@@ -165,7 +165,7 @@ For assistance, you can:
 **Consult the README:** Refer to the project's README file for detailed instructions and explanations.
 **Explore the GitHub Repository:** Check the issues, pull requests, and discussions for insights and solutions.
 **Community Forums:** Seek help on online forums like Stack Overflow or Reddit.
-**Connect with me on Social Media:** Discuss the project and get help on platforms like LinkedIn [linkedin.com/in/biswajitsasmal].
+**Connect with me on Social Media:** Discuss the project and get help on platforms like LinkedIn [https://www.linkedin.com/in/biswajitsasmal].
 
 ## Maintainers and Contributors: - 
 This project is primarily maintained by 
