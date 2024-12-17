@@ -181,3 +181,7 @@ Reporting Issues: Identify and report bugs or feature requests.
 Submitting Pull Requests: Contribute code improvements, bug fixes, or new features.
 Providing Feedback: Share your thoughts and suggestions on the project's design and functionality.
 By collaborating and contributing to this project, you can help improve the database and its usefulness to the community.
+
+**License:-**
+
+This project is licensed under the MIT License.
