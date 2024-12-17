@@ -120,11 +120,11 @@ language_role_id: A foreign key referencing the language_role table.
 ## Data Analysis and Insights:- 
 Once the data is cleaned and loaded into the database, you can perform various analyses to gain valuable insights:
 
-**Popular genres:** Identify the most popular movie genres.
-**Top-grossing movies:** Find the highest-grossing movies of all time.
-**Prolific actors and directors:** Identify the most active actors and directors.
-**Movie trends:** Analyze trends in movie budgets, revenues, and popularity over time.
-**Collaborative relationships:** Discover frequent collaborations between actors and directors.
+1. **Popular genres:** Identify the most popular movie genres.
+2. **Top-grossing movies:** Find the highest-grossing movies of all time.
+3. **Prolific actors and directors:** Identify the most active actors and directors.
+4. **Movie trends:** Analyze trends in movie budgets, revenues, and popularity over time.
+5. **Collaborative relationships:** Discover frequent collaborations between actors and directors.
 
 ## What the Project Does :- 
 This PostgreSQL database serves as a comprehensive repository for movie-related data. It stores information about movies, including:
@@ -164,10 +164,10 @@ Populate the database with movie data from various sources (e.g., TMDb API, IMDb
 ## Getting Help: - 
 For assistance, you can:
 
-**Consult the README:** Refer to the project's README file for detailed instructions and explanations.
-**Explore the GitHub Repository:** Check the issues, pull requests, and discussions for insights and solutions.
-**Community Forums:** Seek help on online forums like Stack Overflow or Reddit.
-**Connect with me on Social Media:** Discuss the project and get help on platforms like LinkedIn [https://www.linkedin.com/in/biswajitsasmal].
+1. **Consult the README:** Refer to the project's README file for detailed instructions and explanations.
+2. **Explore the GitHub Repository:** Check the issues, pull requests, and discussions for insights and solutions.
+3. **Community Forums:** Seek help on online forums like Stack Overflow or Reddit.
+4. **Connect with me on Social Media:** Discuss the project and get help on platforms like LinkedIn [https://www.linkedin.com/in/biswajitsasmal].
 
 ## Maintainers and Contributors: - 
 This project is primarily maintained by 
